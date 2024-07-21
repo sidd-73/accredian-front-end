@@ -1,3 +1,7 @@
+# USE MY DEFAULT MAIL IN THE LIVE LINK.
+# AFTER CLONING CHANGE THE .env with your CREDENIALS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
