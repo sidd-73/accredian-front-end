@@ -28,7 +28,7 @@ const HeroSection = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('https://accredian-backend-92lh.onrender.com:10000/api/referrals', formData);
+      const response = await axios.post('https://accredian-backend-92lh.onrender.com/api/referrals', formData);
       console.log('Referral submitted:', response.data);
       handleClose();
     } catch (error) {
